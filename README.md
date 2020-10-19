@@ -12,11 +12,11 @@
 - Autenticação da API com JWT;
 - Utilização de Docker;
 
-**Observação:** Ninguém será desclassificado por utilizar outras técnologias, porém a utilização das ferramentas a cima contarão pontos a mais para o projeto criado.
+**Observação:** Ninguém será desclassificado por utilizar outras técnologias, porém a utilização das ferramentas acima contarão pontos a mais para o projeto criado.
 
 ## Entrega:
 Será levado em consideração o tempo de desenvolvimento, qualidade do software e domínio da linguagem, bem como a entrega dos diferenciais.
 
-O README deve conter um guia para teste da aplicação.
+O README deve conter um guia para teste da aplicação e o projeto deve ser hospedado em algum servidor (heroku, github pages, firebase, etc).
 
 Enviar o link do projeto, juntamente com a pretenção salárial e a responta para a pergunta: Por que eu mereço fazer parte do **Time Viver**?, para o e-mail administrativo@planoviver.com
